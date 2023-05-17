@@ -1,0 +1,20 @@
+test_login_failed (aaa.test_login.TestLogin) ... ok
+test_login_success (aaa.test_login.TestLogin) ... ok
+test_reg (aaa.test_login.TestLogin) ... ok
+test_repwd (aaa.test_login.TestLogin) ... ok
+test_member_address (test_account.TestAccount) ... ok
+test_member_user (test_account.TestAccount) ... ok
+test_browse (test_member.TestMember) ... ok
+test_buy (test_member.TestMember) ... skipped '不需要运行'
+test_cang (test_member.TestMember) ... skipped '不需要运行'
+test_trade_info (test_member.TestMember) ... skipped '不需要运行'
+test_trade_now (test_member.TestMember) ... skipped '不需要运行'
+test_trade_oper (test_member.TestMember) ... skipped '不需要运行'
+test_login (test_reg.TestReg) ... ok
+test_reg_failed (test_reg.TestReg) ... ok
+test_reg_success (test_reg.TestReg) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 273.497s
+
+OK (skipped=5)

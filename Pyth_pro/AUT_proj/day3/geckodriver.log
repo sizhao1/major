@@ -1,0 +1,59 @@
+1665541009446	geckodriver	INFO	geckodriver 0.18.0
+1665541009460	geckodriver	INFO	Listening on 127.0.0.1:49382
+1665541012553	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1665541017455	Marionette	INFO	Listening on port 49390
+1665541018694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js, line 7: TypeError: a is null
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20190927, line 289: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?wid=240&hei=180&di=u6711436&s1=3869289385&s2=2397452391&ltu=https%3A%2F%2Fwww.sina.com.cn%2F&dc=3&ti=%E6%96%B0%E6%B5%AA%E7%BD%91&ps=4757x174&drs=1&pcs=1349x669&pss=1349x7062&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1665541031&psr=1366x768&par=1366x738&pis=240x350&ccd=24&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1665541032&dtm=HTML_POST&tpr=1665541025003&ari=2&ant=0&exps=110269,110257,110009,111000&prot=2&dis=1&dai=7&dri=0&ver=0926&liu=https%3A%2F%2Fwww.sina.com.cn%2F&ecd=1&psi=e375a558bbe570b6&ft=1, line 139: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?wid=240&hei=180&di=u6711436&s1=3869289385&s2=2397452391&ltu=https%3A%2F%2Fwww.sina.com.cn%2F&dc=3&ti=%E6%96%B0%E6%B5%AA%E7%BD%91&ps=4757x174&drs=1&pcs=1349x669&pss=1349x7062&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1665541031&psr=1366x768&par=1366x738&pis=240x350&ccd=24&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1665541032&dtm=HTML_POST&tpr=1665541025003&ari=2&ant=0&exps=110269,110257,110009,111000&prot=2&dis=1&dai=7&dri=0&ver=0926&liu=https%3A%2F%2Fwww.sina.com.cn%2F&ecd=1&psi=e375a558bbe570b6&ft=1, line 139: unreachable code after return statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058043&u=1&pf=baidu&l=2&a=1&t=1665541031648&bid=u6633872, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000057532&u=1&pf=baidu&l=2&a=1&t=1665541030767&bid=u6633997, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058016&u=1&pf=baidu&l=2&a=1&t=1665541030421&bid=u6633874, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058040&u=1&pf=baidu&l=2&a=1&t=1665541030668&bid=u6633871, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000046021&u=1&pf=baidu&l=0&a=1&t=1665541030670&bid=u6673951, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000016827&u=1&pf=baidu&l=0&a=1&t=1665541031650&bid=u6673936, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058046&u=1&pf=baidu&l=0&a=1&t=1665541030664&bid=u6673953, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=FB004DC85F3E3F12&u=1&pf=baidu&l=0&a=1&t=1665541031646&bid=u6673974, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PCDD240200&u=0cc175b9c0f1b6a831c399e269772661&pf=other&l=0&a=27&t=1665541039870&bid=, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js, line 7: TypeError: a is null
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20190927, line 289: unreachable code after return statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058043&u=1&pf=baidu&l=2&a=1&t=1665541047937&bid=u6633872, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058040&u=1&pf=baidu&l=2&a=1&t=1665541049007&bid=u6633871, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058017&u=1&pf=baidu&l=2&a=1&t=1665541049089&bid=u6633870, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000046021&u=1&pf=baidu&l=0&a=1&t=1665541049072&bid=u6673951, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000057532&u=1&pf=baidu&l=2&a=1&t=1665541050660&bid=u6633997, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=FB004DC85F3E3F12&u=1&pf=baidu&l=0&a=1&t=1665541048035&bid=u6673974, line 1: SyntaxError: missing ; before statement
+JavaScript warning: https://pos.baidu.com/s?wid=240&hei=180&di=u6711436&s1=1422236844&s2=612244235&ltu=https%3A%2F%2Fwww.sina.com.cn%2F&dc=3&ti=%E6%96%B0%E6%B5%AA%E7%BD%91&ps=4757x174&drs=1&pcs=1349x669&pss=1349x7062&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1665541050&psr=1366x768&par=1366x738&pis=240x350&ccd=24&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1665541050&dtm=HTML_POST&tpr=1665541045633&ari=2&ant=0&exps=110269,110257,110009,111000&prot=2&dis=1&dai=12&dri=0&ver=0926&liu=https%3A%2F%2Fwww.sina.com.cn%2F&ecd=1&psi=1becfcd5a21c7ddc&fpt=30$i6ClLS5FkH444D2IlirdjvrwnnG8t7aWGXB4u7gzfS4IEgClzl5Zo87yeWKdZjkNE4abTqha1HGV+J1z/O4kIIDH2fgV9QqqbNA+NUYaesIc/MzwhxjzJLaRACCf2sLjZyN1VkIGRnr+kAhXXTQmQ2yUjrF7orT4Tbjvp5lNJx+WmlCW3g0kAwbQC3jRUUPKfER75vdg/2UlS3Db0lhj7tKmLGsiH1cWlP6/o2tDJUTYowb9IF+m0ZqSnQi1Qx3hFsIJxPUjE9exKFRZdyzG9xMCIJ0X1uXMwy+lEC80ey3p75Tou5Q3t6DHJtaggKlDl0bQojYxNmCfCNrYUXDXZ17zBJA/Pf3AlgY0SR5UA95uA8LjjGZrKk0HEOpyW/Pu|4Maru4gqBcZTh6gkXaq3ysDwgSvAZAC4GI129Nr1XSE=|10|a3a8b9424bcefd21559e1fad7f42555d&ft=1, line 139: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?wid=240&hei=180&di=u6711436&s1=1422236844&s2=612244235&ltu=https%3A%2F%2Fwww.sina.com.cn%2F&dc=3&ti=%E6%96%B0%E6%B5%AA%E7%BD%91&ps=4757x174&drs=1&pcs=1349x669&pss=1349x7062&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1665541050&psr=1366x768&par=1366x738&pis=240x350&ccd=24&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1665541050&dtm=HTML_POST&tpr=1665541045633&ari=2&ant=0&exps=110269,110257,110009,111000&prot=2&dis=1&dai=12&dri=0&ver=0926&liu=https%3A%2F%2Fwww.sina.com.cn%2F&ecd=1&psi=1becfcd5a21c7ddc&fpt=30$i6ClLS5FkH444D2IlirdjvrwnnG8t7aWGXB4u7gzfS4IEgClzl5Zo87yeWKdZjkNE4abTqha1HGV+J1z/O4kIIDH2fgV9QqqbNA+NUYaesIc/MzwhxjzJLaRACCf2sLjZyN1VkIGRnr+kAhXXTQmQ2yUjrF7orT4Tbjvp5lNJx+WmlCW3g0kAwbQC3jRUUPKfER75vdg/2UlS3Db0lhj7tKmLGsiH1cWlP6/o2tDJUTYowb9IF+m0ZqSnQi1Qx3hFsIJxPUjE9exKFRZdyzG9xMCIJ0X1uXMwy+lEC80ey3p75Tou5Q3t6DHJtaggKlDl0bQojYxNmCfCNrYUXDXZ17zBJA/Pf3AlgY0SR5UA95uA8LjjGZrKk0HEOpyW/Pu|4Maru4gqBcZTh6gkXaq3ysDwgSvAZAC4GI129Nr1XSE=|10|a3a8b9424bcefd21559e1fad7f42555d&ft=1, line 139: unreachable code after return statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058046&u=1&pf=baidu&l=0&a=1&t=1665541049083&bid=u6673953, line 1: SyntaxError: missing ; before statement
+1665541097184	Marionette	INFO	New connections will no longer be accepted
+1665541138387	geckodriver	INFO	geckodriver 0.18.0
+1665541138403	geckodriver	INFO	Listening on 127.0.0.1:49689
+1665541141487	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1665541144669	Marionette	INFO	Listening on port 49697
+1665541145028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js, line 7: TypeError: a is null
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20190927, line 289: unreachable code after return statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058017&u=1&pf=baidu&l=2&a=1&t=1665541156344&bid=u6633870, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058043&u=1&pf=baidu&l=2&a=1&t=1665541157712&bid=u6633872, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=FB004DC85F3E3F12&u=1&pf=baidu&l=0&a=1&t=1665541156101&bid=u6673974, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000046021&u=1&pf=baidu&l=0&a=1&t=1665541156327&bid=u6673951, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000057532&u=1&pf=baidu&l=2&a=1&t=1665541156342&bid=u6633997, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058040&u=1&pf=baidu&l=2&a=1&t=1665541156335&bid=u6633871, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000016827&u=1&pf=baidu&l=0&a=1&t=1665541156331&bid=u6673936, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058046&u=1&pf=baidu&l=0&a=1&t=1665541156473&bid=u6673953, line 1: SyntaxError: missing ; before statement
+JavaScript warning: https://n.sinaimg.cn/index/js/shms2.js?v=20190927, line 289: unreachable code after return statement
+JavaScript error: https://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js, line 7: TypeError: a is null
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058043&u=1&pf=baidu&l=2&a=1&t=1665541171891&bid=u6633872, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058040&u=1&pf=baidu&l=2&a=1&t=1665541173717&bid=u6633871, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000046021&u=1&pf=baidu&l=0&a=1&t=1665541173726&bid=u6673951, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=FB004DC85F3E3F12&u=1&pf=baidu&l=0&a=1&t=1665541172016&bid=u6673974, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000016827&u=1&pf=baidu&l=0&a=1&t=1665541172734&bid=u6673936, line 1: SyntaxError: missing ; before statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000058046&u=1&pf=baidu&l=0&a=1&t=1665541172021&bid=u6673953, line 1: SyntaxError: missing ; before statement
+JavaScript warning: https://pos.baidu.com/s?wid=240&hei=180&di=u6711436&s1=3608794402&s2=3964317816&ltu=https%3A%2F%2Fwww.sina.com.cn%2F&dc=3&ti=%E6%96%B0%E6%B5%AA%E7%BD%91&ps=4757x174&drs=1&pcs=1349x669&pss=1349x7062&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1665541175&psr=1366x768&par=1366x738&pis=240x350&ccd=24&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1665541175&dtm=HTML_POST&tpr=1665541170016&ari=2&ant=0&exps=110269,110257,110009,111000&prot=2&dis=1&dai=25&dri=0&ver=0926&liu=https%3A%2F%2Fwww.sina.com.cn%2F&ecd=1&psi=ae38af7fce6dfb01&ft=1, line 139: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/s?wid=240&hei=180&di=u6711436&s1=3608794402&s2=3964317816&ltu=https%3A%2F%2Fwww.sina.com.cn%2F&dc=3&ti=%E6%96%B0%E6%B5%AA%E7%BD%91&ps=4757x174&drs=1&pcs=1349x669&pss=1349x7062&cfv=0&cpl=0&chi=2&cce=true&cec=UTF-8&tlm=1665541175&psr=1366x768&par=1366x738&pis=240x350&ccd=24&cja=false&cmi=0&col=zh-CN&cdo=-1&tcn=1665541175&dtm=HTML_POST&tpr=1665541170016&ari=2&ant=0&exps=110269,110257,110009,111000&prot=2&dis=1&dai=25&dri=0&ver=0926&liu=https%3A%2F%2Fwww.sina.com.cn%2F&ecd=1&psi=ae38af7fce6dfb01&ft=1, line 139: unreachable code after return statement
+JavaScript error: https://js.bd.dhsz.cn/impress?p=PDPS000000057532&u=1&pf=baidu&l=2&a=1&t=1665541177842&bid=u6633997, line 1: SyntaxError: missing ; before statement
+1665541219294	Marionette	INFO	New connections will no longer be accepted

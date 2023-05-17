@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<form action="###" method="get">
+			<input id="ipt" type="text" placeholder="输入文本信息："/>
+			<div id="bx1">盒子一</div>
+			<div id="bx2">盒子二</div>
+			<input type="checkbox" id="cx1" checked="checked"/><label for="cx1">看书</label>
+			<input type="checkbox" id="cx2"/><label for="cx2">练字</label>
+			<input type="checkbox" id="cx3"/><label for="cx3">写作业</label>
+		</form>
+		
+	</body>
+</html>
+<script>
+//	例子一:修改html标签
+//	需求:修改html的input标签, 目前是文本输入框, 修改成按钮
+//	修改的前提,是要先获取到修改的对象,js里获取到对象的方法:
+//	获取标签的方法: document.getElementById('ipt')
+//	怎么修改?  标签.属性名=属性值
+	/*document.getElementById('ipt').type="reset";*/
+	document.getElementById('bx1').innerText="我是盒子1";
+	document.getElementById('cx2').checked="checked";
+	document.getElementById('cx1').removeAttribute('checked');
+	document.getElementById('bx2').innerHTML="我是盒子1-2";
+	
+</script>

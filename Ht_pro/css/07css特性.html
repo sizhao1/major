@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			/*1.继承性:子元素继承父元素的css样式*/
+			/*2.覆盖性:后写的覆盖先写的*/
+			/*3.优先级: id选择器>标签选择器  类选择器>标签选择器*/
+			div{width:180px;height:240px;text-align: center;border:solid; background:red;padding: 10px;
+			margin-left:580px ;}
+			#bx{border: dotted blue 5px;}
+			.bx1{border: dotted green 6px;}
+			/*div{border:dashed 5px;}*/
+		</style>
+	</head>
+	<body>
+		<div id="bx" class="bx1">
+			<img src="../img/xijinping.jpg" />
+		</div>
+	</body>
+</html>

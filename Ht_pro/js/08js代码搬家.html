@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			div{width: 100px;height: 100px;background: pink;}
+		</style>
+		<script>
+//			写一个加载事件: 等待html文档的整个加载，加载事件结束后，才能执行匿名函数中的代码。
+			window.onload = function(){
+				var bx = document.getElementById('bx');
+				bx.onclick = function(){
+					bx.style.background = "orange";
+					bx.innerHTML = "欢迎你！"
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<div id="bx"></div>
+	</body>
+</html>
+<script>
+	var bx = document.getElementById('bx');
+	bx.onclick = function(){
+		bx.style.background = "orange";
+		bx.innerHTML = "欢迎你！"
+	}
+</script>
+
+

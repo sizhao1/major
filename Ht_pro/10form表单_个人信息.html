@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<form action="###" method="post">
+			<span>文本输入框:</span><input type="text" placeholder="我是默认文本" /><br />
+			<span>密码框:</span><input type="password" placeholder="输入密码" /><br />
+			<!--bug:既男又女-->
+			<!--解bug: 两个单选项, 组织成同一组的备选答案(每个单选框的name属性值一样),那么由于type类型是radio,所以浏览器只会从备选答案中让你选一个.-->
+			单选框:<input type="radio" name="sex" checked="checked"/> 男  <input type="radio" name="sex"/> 女 <br />
+			单选框:<input type="radio" name="xl"/>本科 <input type="radio" name="xl"/>专科 
+			<input type="radio" name="xl"/>研究生 <input type="radio" name="xl"/>博士<br />
+			<!--小bug: 点字不能选中框框-->
+			复选框:<input type="checkbox" id="lq"/> <label for="lq">篮球</label>
+			<input type="checkbox" id="cs"/> <label for="cs">测试</label>
+			<input type="checkbox" id="ks" checked="checked"/> <label for="ks">看书</label>
+			<br />
+			<!--跳过下拉框和文本域-->
+			<!--下拉框-->
+			<!--标签: select标签   代码块 select_option-->
+			民族:<select name="mz">
+				<option value="hanz">汉族</option>
+				<option value="huiz">回族</option>
+				<option value="zangz">藏族</option>
+				<option value="wwez">维吾尔族</option>
+				<option value='riben'>日本族</option>
+			</select><br />
+			<!--文本域(了解)-->
+			自我介绍:<textarea rows="10" cols="20"></textarea><br />
+			普通按钮:<input type="button" value="普通按钮"/><br />
+			重置按钮:<input type="reset" value="重置按钮" /><br />
+			提交按钮:<input type="submit" value="点击提交"/><br />
+		</form>
+	</body>
+</html>

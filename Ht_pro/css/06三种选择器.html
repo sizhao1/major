@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			/*三种CSS选择器: 标签选择器:直接写标签名    id选择器:#id值*/
+			/*类选择器: 分类, 写法： .类值 */
+			/*需求:所有的盒子都是150*150,盒子二是粉颜色，盒子三和四是蓝颜色*/
+			/*id值和class值定义的规范:
+			不能以数字,中文,特殊符号开头
+			不能包含中文,特殊符号(_-可以包含)*/
+			div{width: 150px; height: 150px;margin: 10px;}
+			#bx2{background: pink;}
+			.bx3{background: blue;}
+
+		</style>
+	</head>
+	<body>
+		<div>大盒子一</div>
+		<div id="bx2">大盒子二</div>
+		<div class="bx3">大盒子三</div>
+		<div class="bx3">大盒子四</div>
+	</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			/*后代选择器: 祖先元素 后代元素  只要符合规则的后代元素都会被选中*/
+			/*body span{color: red;}*/
+			/*父子选择器: 父元素>子元素  符合规则的只能是父子关系*/
+			div>span{color: blue;}
+		</style>
+	</head>
+	<body>
+		<div>
+			<p>
+				<span>
+					<span>我是小盒子</span>
+				</span>
+				<span>我也也是小盒子</span>
+			</p>
+			<span>我也是小盒子</span>
+		</div>
+		<span>我还是小盒子</span>
+	</body>
+</html>

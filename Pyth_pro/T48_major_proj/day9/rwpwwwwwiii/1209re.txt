@@ -1,0 +1,5 @@
+1 zhangsan 89
+2  lisi  59
+3  wangwu  19
+4   asan  9
+5   xiaohua   77

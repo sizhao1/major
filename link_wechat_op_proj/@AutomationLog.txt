@@ -1,0 +1,28 @@
+2023-05-17 11:42:32.181 wxauto.py[274] GetLastMessage -> 2023-05-17 11:42:57.043 wxauto.py[274] GetLastMessage -> 2023-05-17 11:43:27.465 wxauto.py[274] GetLastMessage -> 2023-05-17 11:58:56.147 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 11:59:40.338 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:00:19.130 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:00:57.664 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:01:27.347 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:01:56.915 link_wechat_auto.py[131] 普通用户回复 -> 2023-05-17 12:24:03.258 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:24:18.987 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:24:49.583 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:25:11.506 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:25:25.880 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:25:46.416 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:26:07.616 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:26:18.573 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:26:31.131 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:26:43.549 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:26:55.021 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:27:06.568 link_wechat_auto.py[131] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:27:25.890 link_wechat_auto.py[131] 普通用户回复 -> 2023-05-17 12:29:43.100 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:30:00.503 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:30:17.069 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:30:33.912 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:30:59.938 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:31:15.646 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:31:32.284 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:31:48.617 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:32:03.879 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:32:19.133 link_wechat_auto.py[132] 普通用户回复 -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2023-05-17 12:32:35.673 link_wechat_auto.py[132] 普通用户回复 -> 

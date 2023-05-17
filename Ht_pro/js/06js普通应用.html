@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style>
+			div{width: 100px;height: 100px;background: orange;}
+		</style>
+	</head>
+	<body>
+		<div id="bx"></div>
+		<input id="bk" type="button" value="变宽" />
+		<input id="bg" type="button" value="变高" />
+		<input id="bs" type="button" value="变色" />
+	</body>
+</html>
+<script>
+//	需求:点击变宽按钮, 盒子的宽度发生变化,100px-->200px
+//  js事件的规则: 事件源.事件类型=匿名函数
+//	事件源: 事件类型发生在那个标签上,哪个标签就是事件源-------变宽按钮
+//	事件类型: 只有两种,1:鼠标事件(例:单击,双击,右键,悬浮,拖拽,滚动) 2.键盘事件(敲Enter,Tab,Control+a/c/v/x)-------鼠标的单击事件
+//  匿名函数： function(){变化}
+	var bk = document.getElementById('bk');
+	var bg = document.getElementById('bg');
+	var bs = document.getElementById('bs');
+	bk.onclick = function(){
+		var bx = document.getElementById('bx');
+		bx.style.width = "200px";
+	}
+	bg.onclick = function(){
+		var bx = document.getElementById('bx');
+		bx.style.height = "200px";
+	}
+//	事件源.事件类型=匿名函数(变化)
+	bs.onclick = function(){
+		var bx = document.getElementById('bx');
+		bx.style.background = "deeppink";
+	}
+	
+</script>
